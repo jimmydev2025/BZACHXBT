@@ -1,0 +1,744 @@
+.elementor-10 .elementor-element.elementor-element-1536642 {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1536642:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-1536642 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+/*	background-image: url("https://pbs.twimg.com/media/GIcf7-NXsAAqEMG?format=jpg&name=large");*/
+	background: #4d4d4d;
+	background-size: cover;
+}
+
+.elementor-10 .elementor-element.elementor-element-1536642,
+.elementor-10 .elementor-element.elementor-element-1536642::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-906a525 {
+	--spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6001348 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1b7b7ed img {
+	width: 89%;
+}
+
+.elementor-10 .elementor-element.elementor-element-1b7b7ed {
+	width: var(--container-widget-width, 46.964%);
+	max-width: 46.964%;
+	--container-widget-width: 46.964%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-1b7b7ed.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-889e32e {
+	--display: flex;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-2acb7d2 {
+	text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-2acb7d2 .elementor-heading-title {
+	color: #ff5500;
+	font-family: "Chau Philomene One", Sans-serif;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+
+.elementor-10 .elementor-element.elementor-element-d3062e0 {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-d3062e0 .elementor-heading-title {
+	color: #ffe400;
+	font-family: "Chau Philomene One", Sans-serif;
+	font-size: 74px;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+
+.elementor-10 .elementor-element.elementor-element-f141408 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--align-items: center;
+	--gap: 0px;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-5ca43aa img {
+	filter: brightness(113%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
+}
+
+.elementor-10 .elementor-element.elementor-element-5ca43aa {
+	width: var(--container-widget-width, 45.207%);
+	max-width: 45.207%;
+	--container-widget-width: 45.207%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-5ca43aa.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-5ca43aa > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-c08f5b2 img {
+	filter: brightness(112%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
+}
+
+.elementor-10 .elementor-element.elementor-element-c08f5b2 {
+	width: var(--container-widget-width, 16.418%);
+	max-width: 16.418%;
+	--container-widget-width: 16.418%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c08f5b2.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c08f5b2 > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-82d8397 img {
+	filter: brightness(113%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
+}
+
+.elementor-10 .elementor-element.elementor-element-82d8397 {
+	width: var(--container-widget-width, 17.961%);
+	max-width: 17.961%;
+	--container-widget-width: 17.961%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-82d8397.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-82d8397 > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-8eec3e3 img {
+	filter: brightness(113%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);
+}
+
+.elementor-10 .elementor-element.elementor-element-8eec3e3 {
+	width: var(--container-widget-width, 21.35%);
+	max-width: 21.35%;
+	--container-widget-width: 21.35%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-8eec3e3.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-8eec3e3 > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-639b554 {
+	--spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-b209370 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--background-transition: 0.3s;
+	--margin-top: -60px;
+	--margin-right: 0px;
+	--margin-bottom: 0px;
+	--margin-left: 0px;
+	--z-index: 3;
+}
+
+.elementor-10 .elementor-element.elementor-element-b209370:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-b209370 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #1a3674;
+	border: #000 solid 5px;
+}
+
+.elementor-10 .elementor-element.elementor-element-b209370,
+.elementor-10 .elementor-element.elementor-element-b209370::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b209370.e-con {
+	--align-self: center;
+	--e-con-transform-rotateZ: -5deg;
+}
+
+.elementor-10 .elementor-element.elementor-element-53d046c .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Bangers", Sans-serif;
+	font-weight: 600;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+
+.elementor-10 .elementor-element.elementor-element-53d046c {
+	z-index: 3;
+}
+
+.elementor-10 .elementor-element.elementor-element-53d046c > .elementor-widget-container {
+	--e-transform-rotateZ: 0deg;
+}
+
+.elementor-10 .elementor-element.elementor-element-562114c {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--justify-content: center;
+	--gap: 0px;
+	--background-transition: 0.3s;
+	--overlay-opacity: 0.2;
+	--margin-top: -15px;
+	--margin-right: 0px;
+	--margin-bottom: 0px;
+	--margin-left: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-562114c:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-562114c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+/*	background-image: url("../images/depositphotos_567177372-stock-illustration-duck-seamless-pattern-rubber-duck.webp");*/
+	background: #525252;
+	background-repeat: repeat;
+}
+
+.elementor-10 .elementor-element.elementor-element-562114c::before,
+.elementor-10 .elementor-element.elementor-element-562114c > .elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-562114c > .e-con-inner > .elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-562114c > .elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-562114c > .e-con-inner > .elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-562114c > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+	--background-overlay: '';
+/*	background-color: #000000;*/
+}
+
+.elementor-10 .elementor-element.elementor-element-562114c,
+.elementor-10 .elementor-element.elementor-element-562114c::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8d2da4 {
+	--display: flex;
+	--justify-content: center;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8d2da4.e-con {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-dd2346f {
+	--spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-9053b28 {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-9053b28 .elementor-heading-title {
+	color: #2468ff;
+	font-family: "Chau Philomene One", Sans-serif;
+	font-size: 126px;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+
+.elementor-10 .elementor-element.elementor-element-e7087ba {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-e7087ba .elementor-heading-title {
+	color: white;
+	font-family: "Chau Philomene One", Sans-serif;
+	font-size: 36px;
+	font-weight: 100;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	stroke: black;
+}
+
+.elementor-10 .elementor-element.elementor-element-741d4df {
+	--display: flex;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9c3df11 {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9c3df11:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-9c3df11 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #525252;
+}
+
+.elementor-10 .elementor-element.elementor-element-9c3df11,
+.elementor-10 .elementor-element.elementor-element-9c3df11::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-466e422 {
+	--divider-border-style: dots_tribal;
+	--divider-color: #000;
+	--divider-pattern-height: 20px;
+	z-index: 2;
+}
+
+.elementor-10 .elementor-element.elementor-element-466e422 .elementor-divider-separator {
+	width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-466e422 .elementor-divider {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-466e422 > .elementor-widget-container {
+	--e-transform-rotateZ: 0deg;
+}
+
+.elementor-10 .elementor-element.elementor-element-004bb34 {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--align-items: center;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-004bb34:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-004bb34 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #525252;
+}
+
+.elementor-10 .elementor-element.elementor-element-004bb34,
+.elementor-10 .elementor-element.elementor-element-004bb34::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-772d048 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b63849f {
+	--display: flex;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b63849f.e-con {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f75ecc img {
+	width: 80%;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f75ecc {
+	width: var(--container-widget-width, 111.258%);
+	max-width: 111.258%;
+	--container-widget-width: 111.258%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f75ecc.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-d86b223 {
+	--display: flex;
+	--justify-content: center;
+	--align-items: center;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-7618771 {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-7618771 .elementor-heading-title {
+	color: #2468ff;
+	font-family: "Chau Philomene One", Sans-serif;
+	font-size: 74px;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+
+.elementor-10 .elementor-element.elementor-element-d5cec55 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-07aa790 {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-07aa790 .elementor-heading-title {
+	color: #000;
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 20px;
+}
+
+.elementor-10 .elementor-element.elementor-element-14b12c6 {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-14b12c6:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-14b12c6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #525252;
+}
+
+.elementor-10 .elementor-element.elementor-element-14b12c6,
+.elementor-10 .elementor-element.elementor-element-14b12c6::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-f660361 {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-f660361:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-f660361 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #525252;
+}
+
+.elementor-10 .elementor-element.elementor-element-f660361,
+.elementor-10 .elementor-element.elementor-element-f660361::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-14a1cc1 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--align-items: center;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-5fe2896 {
+	--display: flex;
+	--align-items: center;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-5fe2896.e-con {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-dc393ea {
+	text-align: center;
+	width: var(--container-widget-width, 118.942%);
+	max-width: 118.942%;
+	--container-widget-width: 118.942%;
+	--container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-dc393ea .elementor-heading-title {
+	color: black;
+	font-family: "Chau Philomene One", Sans-serif;
+	font-size: 73px;
+	text-transform: uppercase;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: #fff;
+	stroke: black;
+}
+
+.elementor-10 .elementor-element.elementor-element-dc393ea.elementor-element {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-dc393ea > .elementor-widget-container {
+	--e-transform-rotateZ: -3deg;
+}
+
+.elementor-10 .elementor-element.elementor-element-608f98f {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-608f98f .elementor-heading-title {
+	color: white;
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 32px;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	stroke: black;
+}
+
+.elementor-10 .elementor-element.elementor-element-608f98f > .elementor-widget-container {
+	--e-transform-rotateZ: -4deg;
+}
+
+.elementor-10 .elementor-element.elementor-element-1e9cabb {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--justify-content: center;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1e9cabb.e-con {
+	--flex-grow: 0;
+	--flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-2bd16bb > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-0e423a0 > .elementor-widget-container:hover {
+	--e-transform-scale: 1.1;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea279b4 {
+	--divider-border-style: wavy;
+	--divider-color: #000;
+	--divider-border-width: 1px;
+	--divider-pattern-height: 20px;
+	--divider-pattern-size: 20px;
+	width: 100%;
+	max-width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea279b4 .elementor-divider-separator {
+	width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-ea279b4 .elementor-divider {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0742f95 .elementor-wrapper {
+	--video-aspect-ratio: 1.77777;
+}
+
+.elementor-10 .elementor-element.elementor-element-0742f95 {
+	z-index: -2;
+}
+
+.elementor-10 .elementor-element.elementor-element-90f51bf {
+	--display: flex;
+	--background-transition: 0.3s;
+	--position: absolute;
+	top: 0px;
+}
+
+body:not(.rtl) .elementor-10 .elementor-element.elementor-element-90f51bf {
+	left: 0px;
+}
+
+body.rtl .elementor-10 .elementor-element.elementor-element-90f51bf {
+	right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-04ee29e {
+	--display: flex;
+	--flex-direction: column;
+	--container-widget-width: 100%;
+	--container-widget-height: initial;
+	--container-widget-flex-grow: 0;
+	--container-widget-align-self: initial;
+	--background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-04ee29e:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-04ee29e > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #525252;
+}
+
+.elementor-10 .elementor-element.elementor-element-04ee29e,
+.elementor-10 .elementor-element.elementor-element-04ee29e::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-34ef211 {
+	text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-34ef211 .elementor-heading-title {
+	color: black;
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 30px;
+	-webkit-text-stroke-width: 1px;
+	stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	stroke: black;
+}
+
+@media(min-width:768px) {
+	.elementor-10 .elementor-element.elementor-element-b209370 {
+		--content-width: 1600px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-b8d2da4 {
+		--width: 46.114%;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-b63849f {
+		--width: 52.12%;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-5fe2896 {
+		--width: 55.173%;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-1e9cabb {
+		--width: 33.873%;
+	}
+}
+
+@media(max-width:767px) {
+	.elementor-10 .elementor-element.elementor-element-6001348 {
+		--justify-content: center;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-1b7b7ed img {
+		width: 100%;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-2acb7d2 {
+		text-align: center;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-d3062e0 .elementor-heading-title {
+		font-size: 46px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-9053b28 .elementor-heading-title {
+		font-size: 45px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-e7087ba .elementor-heading-title {
+		font-size: 20px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-7618771 .elementor-heading-title {
+		font-size: 57px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-dc393ea .elementor-heading-title {
+		font-size: 54px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-608f98f .elementor-heading-title {
+		font-size: 28px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-1e9cabb {
+		--width: 102.2px;
+	}
+
+	.elementor-10 .elementor-element.elementor-element-34ef211 .elementor-heading-title {
+		font-size: 28px;
+	}
+}
+
+/* Start custom CSS for heading, class: .elementor-element-53d046c */
+.marquee {
+	overflow: hidden;
+	display: flex;
+}
+
+.marquee h1 {
+	white-space: nowrap;
+}
+
+/* End custom CSS */
